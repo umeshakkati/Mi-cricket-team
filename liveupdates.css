@@ -1,0 +1,29 @@
+body {
+    background: #f4f8fb;
+    font-family: 'Poppins', sans-serif;
+}
+nav ul {
+    display: flex;
+    justify-content: center;
+    background: #045093;
+}
+nav ul li {
+    margin: 0 20px;
+}
+nav ul li a {
+    color: white;
+    font-weight: bold;
+}
+.live-scores {
+    background: white;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    width: 80%;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+.live-scores h2 {
+    color: #045093;
+    margin-bottom: 20px;
+}
